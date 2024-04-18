@@ -54,12 +54,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ᴍᴇ",
-                url=f"https://t.me/{OWNER_USERNAME}",
+                text="guaaaaa",
+                url=f"https://t.me/rewe_anu",
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ",
-                url=f"{SUPPORT_CHANNEL}",
+                text="ch guaaa",
+                url=f"https://t.me/nunagabut2",
             ),
         ],
         [
@@ -115,12 +115,12 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ᴍᴇ",
-                url=f"https://t.me/{OWNER_USERNAME}",
+                text="guaaaaa",
+                url=f"https://t.me/rewe_anu",
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀɴɴᴇʟ",
-                url=f"{SUPPORT_CHANNEL}",
+                text="ch guaaa",
+                url=f"https://t.me/nunagabut2",
             ),
         ],
         [
