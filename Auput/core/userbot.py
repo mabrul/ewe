@@ -53,8 +53,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("UputtSupport")
-                await self.one.join_chat("Flukosaa")
+                await self.one.join_chat("SupprotRewe")
+                await self.one.join_chat("Nunagabut2")
             except:
                 pass
             assistants.append(1)
@@ -83,8 +83,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("UputtSupport")
-                await self.two.join_chat("Flukosaa")
+                await self.two.join_chat("SupprotRewe")
+                await self.two.join_chat("Nunagabut2")
             except:
                 pass
             assistants.append(2)
@@ -113,8 +113,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("UputtSupport")
-                await self.three.join_chat("Flukosaa")
+                await self.three.join_chat("SupprotRewe")
+                await self.three.join_chat("Nunagabut2")
             except:
                 pass
             assistants.append(3)
@@ -143,8 +143,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("UputtSupport")
-                await self.four.join_chat("Flukosaa")
+                await self.four.join_chat("SupprotRewe")
+                await self.four.join_chat("Nunagabut2")
             except:
                 pass
             assistants.append(4)
@@ -173,8 +173,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("UputtSupport")
-                await self.five.join_chat("Flukosaa")
+                await self.five.join_chat("SupprotRewe")
+                await self.five.join_chat("Nunagabut2")
             except:
                 pass
             assistants.append(5)
